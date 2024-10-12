@@ -1,2 +1,7 @@
 # created by virtualenv automatically
 .venv/Lib
+.pytest/
+venv/
+.idea/
+.pytest_cache/
+pycache/
